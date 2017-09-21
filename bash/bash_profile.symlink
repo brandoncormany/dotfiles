@@ -1,7 +1,6 @@
 # shortcut to this dotfiles path is $ZSH
 export ZSH=$HOME/.dotfiles
 source $ZSH/**/aliases.zsh
-source $ZSH/todo.txt/completion.zsh
 
 # customize the prompt
 # battery status code copied from bin/battery-status
