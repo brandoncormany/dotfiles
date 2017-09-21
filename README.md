@@ -1,6 +1,7 @@
-# ginatrapani / dotfiles
+# brandoncormany / dotfiles
 
 Based on & many thanks to [holman/dotfiles](https://github.com/holman/dotfiles)
+forked from [ginatrapani/dotfiles](https://github.com/ginatrapani/dotfiles)
 
 ## components
 
