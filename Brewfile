@@ -23,6 +23,7 @@ brew 'unrar'
 brew 'wget'
 brew 'yarn'
 
+cask 'aerial'
 cask 'alfred'
 cask 'atom'
 cask 'chefdk'
