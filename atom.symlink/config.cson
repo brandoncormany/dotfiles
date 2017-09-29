@@ -28,7 +28,6 @@
     showIndentGuide: true
     showInvisibles: true
     softWrapAtPreferredLineLength: true
-    tabLength: 4
   "linter-phpcs":
     autoConfigSearch: false
     autoExecutableSearch: false
@@ -38,6 +37,7 @@
     tabWidth: 4
   "linter-ui-default":
     panelHeight: 69
+  "linter-vagrant-validate": {}
   minimap:
     absoluteMode: true
     displayCodeHighlights: false
@@ -50,6 +50,7 @@
     formatOnSaveOptions:
       enabled: true
     useEslint: true
+  vagrant: {}
   welcome:
     showOnStartup: false
   whitespace:
