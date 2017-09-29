@@ -26,3 +26,8 @@ linter-ui-default@1.6.5
 open-in-sourcetree@0.1.8
 pretty-json@1.6.4
 script@3.15.0
+linter-ruby@1.2.6
+linter-ui-default@1.6.10
+linter-vagrant-validate@1.1.0
+vagrant@0.1.0
+
