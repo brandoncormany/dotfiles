@@ -14,7 +14,7 @@
         branch = auto
         ui = true
 [core]
-        excludesfile = ~/.gitignore
+	excludesfile = /Users/brandoncormany/.gitignore
 	editor = atom --wait
 [apply]
         whitespace = nowarn
@@ -36,3 +36,8 @@
 [mergetool "sourcetree"]
 	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
+[user]
+	name = Brandon Cormany
+	email = brandon.cormany@exactuals.com
+[commit]
+	template = /Users/brandoncormany/.stCommitMsg
