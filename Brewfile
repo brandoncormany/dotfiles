@@ -8,6 +8,9 @@ brew 'ack'
 brew 'coreutils'
 brew 'flyway'
 brew 'go'
+# If have issues with the next step follow steps listed below.
+# https://github.com/go-delve/homebrew-delve/issues/19
+brew 'go-delve/delve/delve'
 brew 'grc'
 brew 'openssl'
 brew 'packer'
