@@ -28,6 +28,9 @@
     showIndentGuide: true
     showInvisibles: true
     softWrapAtPreferredLineLength: true
+  "go-plus":
+    panel:
+      currentHeight: "42.787524366471736vh"
   "linter-phpcs":
     autoConfigSearch: false
     autoExecutableSearch: false
@@ -37,6 +40,7 @@
     tabWidth: 4
   "linter-ui-default":
     panelHeight: 69
+    showPanel: true
   "linter-vagrant-validate": {}
   minimap:
     absoluteMode: true

@@ -29,6 +29,7 @@ brew 'yarn'
 
 cask 'aerial'
 cask 'alfred'
+cask 'android-file-transfer'
 cask 'atom'
 cask 'chefdk'
 cask 'docker'
