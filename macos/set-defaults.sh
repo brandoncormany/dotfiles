@@ -26,3 +26,7 @@ defaults write NSGlobalDomain WebKitDeveloperExtras -bool true
 
 # Show the full path in the Finder's title
 defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
+
+# Set Screenshots to ~/screenshots folder
+mkdir ~/screenshots
+defaults write com.apple.screencapture location ~/screenshots
