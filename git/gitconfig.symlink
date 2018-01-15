@@ -1,43 +1,9 @@
-# Local/private config goes in the include
-[include]
-        path = ~/.gitconfig.local
-[hub]
-        protocol = https
-[alias]
-        co = checkout
-        wtf     = !$ZSH/bin/git-wtf
-        rank-contributors = !$ZSH/bin/git-rank-contributors
-        count   = !git shortlog -sn
-[color]
-        diff = auto
-        status = auto
-        branch = auto
-        ui = true
-[core]
-	excludesfile = /Users/brandoncormany/.gitignore
-	editor = atom --wait
-[apply]
-        whitespace = nowarn
-[mergetool]
-        keepBackup = false
-[difftool]
-        prompt = false
-[help]
-        autocorrect = 1
-[push]
-        # See `git help config` (search for push.default)
-        # for more information on different options of the below setting.
-        #
-        # Setting to git 2.0 default to suppress warning message
-        default = simple
-[difftool "sourcetree"]
-	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
-[mergetool "sourcetree"]
-	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-	trustExitCode = true
 [user]
 	name = Brandon Cormany
-	email = brandon.cormany@exactuals.com
-[commit]
-	template = /Users/brandoncormany/.stCommitMsg
+	email = brandoncormany@gmail.com
+[credential]
+	helper = osxkeychain
+[diff]
+	tool = atom
+[core]
+	editor = atom --wait
