@@ -1,9 +1,0 @@
-[user]
-	name = Brandon Cormany
-	email = brandoncormany@gmail.com
-[credential]
-	helper = osxkeychain
-[diff]
-	tool = atom
-[core]
-	editor = atom --wait
