@@ -6,11 +6,11 @@ tap 'caskroom/fonts'
 
 brew 'ack'
 brew 'coreutils'
-brew 'flyway'
+#brew 'flyway'
 brew 'go'
 # If have issues with the next step follow steps listed below.
 # https://github.com/go-delve/homebrew-delve/issues/19
-brew 'go-delve/delve/delve'
+#brew 'go-delve/delve/delve'
 brew 'grc'
 brew 'openssl'
 brew 'packer'
@@ -42,7 +42,7 @@ cask 'hipchat'
 cask 'iterm2'
 cask 'istat-menus'
 cask 'java'
-cask 'microsoft-office'
+# cask 'microsoft-office'
 cask 'paw'
 cask 'postman'
 cask 'rescuetime'
@@ -57,3 +57,7 @@ cask 'virtualbox'
 cask 'viscosity'
 cask 'vlc'
 cask 'zoomus'
+
+# Installing from the Mac App Store via mas
+# https://github.com/mas-cli/mas
+mas "irvue", id: 1039633667
