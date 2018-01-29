@@ -5,6 +5,7 @@ tap 'puma/puma'
 tap 'caskroom/fonts'
 
 brew 'ack'
+brew 'awscli'
 brew 'coreutils'
 #brew 'flyway'
 brew 'go'
