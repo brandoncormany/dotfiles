@@ -13,6 +13,7 @@ brew 'go'
 # https://github.com/go-delve/homebrew-delve/issues/19
 #brew 'go-delve/delve/delve'
 brew 'grc'
+brew 'jq'
 brew 'openssl'
 brew 'packer'
 brew 'node'
