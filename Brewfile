@@ -64,3 +64,4 @@ cask 'zoomus'
 # Installing from the Mac App Store via mas
 # https://github.com/mas-cli/mas
 mas "irvue", id: 1039633667
+mas "Microsoft Remote Desktop 10", id: 1295203466
