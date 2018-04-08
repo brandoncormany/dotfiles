@@ -8,6 +8,7 @@ brew 'ack'
 brew 'awscli'
 brew 'coreutils'
 #brew 'flyway'
+brew 'git-flow'
 brew 'go'
 # If have issues with the next step follow steps listed below.
 # https://github.com/go-delve/homebrew-delve/issues/19
