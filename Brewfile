@@ -17,6 +17,7 @@ brew 'grc'
 brew 'jq'
 brew 'openssl'
 brew 'packer'
+brew 'nmap'
 brew 'node'
 brew 'readline'
 brew 'puma/puma/puma-dev'
@@ -67,4 +68,4 @@ cask 'zoomus'
 # https://github.com/mas-cli/mas
 mas "irvue", id: 1039633667
 mas "Microsoft Remote Desktop 10", id: 1295203466
-mast "LastPass Password Manager", id: 926036361
+mas "LastPass Password Manager", id: 926036361
