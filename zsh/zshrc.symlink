@@ -49,3 +49,7 @@ bindkey "^[[B" down-line-or-beginning-search # Down
 # Support for rbenv required for zsh
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
+
+# Support for pyenv required for zsh
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init -)"
