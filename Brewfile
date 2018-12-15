@@ -63,6 +63,7 @@ cask 'whatsapp'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'viscosity'
+cask 'visual-studio-code'
 cask 'vlc'
 cask 'zoomus'
 
