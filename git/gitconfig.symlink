@@ -4,9 +4,9 @@
 [credential]
 	helper = osxkeychain
 [diff]
-	tool = atom
+	tool = code
 [core]
-	editor = atom --wait
+	editor = code --wait
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
