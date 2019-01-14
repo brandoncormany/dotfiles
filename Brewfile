@@ -74,3 +74,4 @@ mas "Microsoft Remote Desktop 10", id: 1295203466
 mas "LastPass Password Manager", id: 926036361
 mas "Xcode", id: 497799835
 mas "LastPass", id: 926036361
+mas "Bear", id: 1091189122
