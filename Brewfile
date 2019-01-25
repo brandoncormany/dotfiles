@@ -4,6 +4,8 @@ tap 'homebrew/bundle'
 tap 'puma/puma'
 tap 'caskroom/fonts'
 tap 'aws/tap'
+tap 'mas-cli/tap', pin: true
+
 
 brew 'ack'
 brew 'awscli'
@@ -17,6 +19,7 @@ brew 'go'
 #brew 'go-delve/delve/delve'
 brew 'grc'
 brew 'jq'
+brew 'mas'
 brew 'openssl'
 brew 'packer'
 brew 'nmap'
