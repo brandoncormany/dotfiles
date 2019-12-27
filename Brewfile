@@ -18,6 +18,7 @@ brew 'go'
 # https://github.com/go-delve/homebrew-delve/issues/19
 #brew 'go-delve/delve/delve'
 brew 'grc'
+brew 'htop'
 brew 'jq'
 brew 'mas'
 brew 'openssl'
