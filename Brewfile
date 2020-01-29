@@ -79,7 +79,7 @@ cask 'zoomus'
 # https://github.com/mas-cli/mas
 mas "irvue", id: 1039633667
 mas "Microsoft Remote Desktop 10", id: 1295203466
-mas "LastPass Password Manager", id: 926036361
+# mas "LastPass Password Manager", id: 926036361 appears that LastPass removed from Mac App Store
 mas "Xcode", id: 497799835
 mas "LastPass", id: 926036361
 mas "Bear", id: 1091189122
