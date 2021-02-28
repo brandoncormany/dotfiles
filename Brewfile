@@ -4,7 +4,7 @@ tap 'homebrew/bundle'
 tap 'puma/puma'
 tap 'caskroom/fonts'
 tap 'aws/tap'
-tap 'mas-cli/tap', pin: true
+tap 'mas-cli/tap'
 
 
 brew 'ack'
@@ -25,6 +25,7 @@ brew 'openssl'
 brew 'packer'
 brew 'nmap'
 brew 'node'
+brew 'nodenv'
 brew 'nvm'
 brew 'readline'
 brew 'puma/puma/puma-dev'
@@ -47,7 +48,6 @@ cask 'amazon-chime'
 cask 'amazon-workdocs'
 cask 'amazon-workspaces'
 cask 'android-file-transfer'
-cask 'chefdk'
 cask 'docker'
 cask 'docker-toolbox'
 cask 'firefox'
@@ -61,12 +61,11 @@ cask 'java'
 cask 'paw'
 cask 'pgadmin4'
 cask 'postman'
-cask 'rescuetime'
 cask 'sequel-pro'
 cask 'skype'
 cask 'slack'
 cask 'sourcetree'
-cask 'teamviewer'
+# cask 'teamviewer'
 cask 'transmit'
 cask 'whatsapp'
 cask 'vagrant'
@@ -83,4 +82,3 @@ mas "Microsoft Remote Desktop 10", id: 1295203466
 # mas "LastPass Password Manager", id: 926036361 appears that LastPass removed from Mac App Store
 mas "Xcode", id: 497799835
 mas "LastPass", id: 926036361
-mas "Bear", id: 1091189122
