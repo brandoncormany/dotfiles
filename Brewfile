@@ -66,7 +66,7 @@ cask 'skype'
 cask 'slack'
 cask 'sourcetree'
 cask 'transmit'
-cask 'whatsapp'
+# cask 'whatsapp' banned 
 cask 'vagrant'
 cask 'virtualbox'
 cask 'viscosity'
