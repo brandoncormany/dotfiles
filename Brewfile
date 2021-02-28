@@ -73,7 +73,7 @@ cask 'virtualbox'
 cask 'viscosity'
 cask 'visual-studio-code'
 cask 'vlc'
-cask 'zoomus'
+cask 'zoom'
 
 # Installing from the Mac App Store via mas
 # https://github.com/mas-cli/mas
