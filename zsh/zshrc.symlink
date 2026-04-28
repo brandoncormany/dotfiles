@@ -74,9 +74,6 @@ export PATH=$HOME/.toolbox/bin:$PATH
 # Kiro CLI post block. Keep at the bottom of this file.
 [[ -f "${HOME}/Library/Application Support/kiro-cli/shell/zshrc.post.zsh" ]] && builtin source "${HOME}/Library/Application Support/kiro-cli/shell/zshrc.post.zsh"
 
-export PATH=$HOME/.toolbox/bin:$PATH
-
 # Added by AIM CLI
 export PATH="$HOME/.aim/mcp-servers:$PATH"
 
-export PATH=$HOME/.toolbox/bin:$PATH
