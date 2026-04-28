@@ -11,12 +11,8 @@ brew 'ack'
 brew 'awscli'
 brew 'aws-sam-cli'
 brew 'coreutils'
-#brew 'flyway'
 brew 'git-flow'
 brew 'go'
-# If have issues with the next step follow steps listed below.
-# https://github.com/go-delve/homebrew-delve/issues/19
-#brew 'go-delve/delve/delve'
 brew 'grc'
 brew 'htop'
 brew 'jq'
@@ -43,11 +39,9 @@ brew 'yarn'
 brew 'zlib'
 
 cask 'aerial'
-cask 'alfred'
 cask 'amazon-chime'
 cask 'amazon-workdocs'
 cask 'amazon-workspaces'
-cask 'android-file-transfer'
 cask 'docker'
 cask 'docker-toolbox'
 cask 'firefox'
@@ -57,7 +51,6 @@ cask 'hipchat'
 cask 'iterm2'
 cask 'istat-menus'
 cask 'java'
-# cask 'microsoft-office'
 cask 'paw'
 cask 'pgadmin4'
 cask 'postman'
@@ -66,18 +59,13 @@ cask 'skype'
 cask 'slack'
 cask 'sourcetree'
 cask 'transmit'
-# cask 'whatsapp' banned 
 cask 'vagrant'
 cask 'virtualbox'
 cask 'viscosity'
 cask 'visual-studio-code'
 cask 'vlc'
-cask 'zoom'
 
 # Installing from the Mac App Store via mas
 # https://github.com/mas-cli/mas
 mas "irvue", id: 1039633667
 mas "Microsoft Remote Desktop 10", id: 1295203466
-# mas "LastPass Password Manager", id: 926036361 appears that LastPass removed from Mac App Store
-mas "Xcode", id: 497799835
-mas "LastPass", id: 926036361
